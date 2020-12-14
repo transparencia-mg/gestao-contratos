@@ -158,7 +158,7 @@
       },
       "title": "Gestão de Contratos",
       "format": "csv",
-      "encoding": "UTF-8",
+      "encoding": "windows-1252",
       "description": "Controle da gestão dos contratos da Diretoria Central de Transparência"
     }
   ],
