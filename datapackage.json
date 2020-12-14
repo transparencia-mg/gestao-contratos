@@ -30,21 +30,21 @@
           },
           {
             "name": "num_documento",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Número do documento",
             "description": "Número do documento de solicitação de abertura da demanda"
           },
           {
             "name": "proposta_comercial",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "description": "Número da Proposta de Comercial elaborada pela PRODEMGE",
             "title": "Proposta Comercial"
           },
           {
             "name": "data_proposta_comercial",
-            "type": "integer",
+            "type": "date",
             "format": "default",
             "title": "Data da Proposta Comercial",
             "description": "Data da Proposta de Comercial elaborada pela PRODEMGE"
@@ -58,7 +58,7 @@
           },
           {
             "name": "num_documento_recebimento_proposta",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Número do documento de recebimento da Proposta Comercial",
             "description": "Número do documento da canal p qual a Proposta Comercial foi recebida pela Controladoria Geral do Estado"
@@ -93,56 +93,56 @@
           },
           {
             "name": "preco_hora",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Preço da Hora",
             "description": "Preço da Hora descrito na proposta comercial"
           },
           {
             "name": "valor_total",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Valor Total",
             "description": "Valor total das horas (quantidade de horas x preço da hora)"
           },
           {
             "name": "data_autorizacao_execucao",
-            "type": "integer",
+            "type": "date",
             "format": "default",
             "title": "Data de Autorização para Execução",
             "description": "Data de autorização para execução da demanda "
           },
           {
             "name": "canal_autorizacao",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Canal de Autorização",
             "description": "Canal de autorização para execução da demanda "
           },
           {
             "name": "data_entrega_demanda",
-            "type": "integer",
+            "type": "date",
             "format": "default",
             "title": "Data da entrega da demanda",
             "description": "Data da entrega em homologação/ produção da demanda à CGE"
           },
           {
             "name": "num_homologacao_SEI",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Número de homologação SEI",
             "description": "Número do processo de   homologação no SEI"
           },
           {
             "name": "data_pre_faturamento",
-            "type": "integer",
+            "type": "date",
             "format": "default",
             "title": "Data do Pré-faturamento",
             "description": "Data do Pré-faturamento"
           },
           {
             "name": "agilis",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "agilis",
             "description": "Número do identificado do Agilis"
