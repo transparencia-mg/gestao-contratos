@@ -93,14 +93,14 @@
           },
           {
             "name": "preco_hora",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "title": "Preço da Hora",
             "description": "Preço da Hora descrito na proposta comercial"
           },
           {
             "name": "valor_total",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "title": "Valor Total",
             "description": "Valor total das horas (quantidade de horas x preço da hora)"
@@ -149,7 +149,7 @@
           },
           {
             "name": "num_processo_pre_faturamento",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Numero do processo pré-faturamento",
             "description": "Número do processo eletrônico no Sistema Eletrônico de Informações (SEI) que identifica o pré-faturamento"
