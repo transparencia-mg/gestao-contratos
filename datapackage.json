@@ -72,7 +72,7 @@
           },
           {
             "name": "id_tipo_hora",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Código do tipo da hora",
             "description": "Código do tipo da hora"
@@ -86,7 +86,7 @@
           },
           {
             "name": "qtd_horas ",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Quantidade de horas",
             "description": "Quantidade de horas descrita na proposta comercial"
