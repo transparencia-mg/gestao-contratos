@@ -44,7 +44,7 @@
           },
           {
             "name": "data_proposta_comercial",
-            "type": "date",
+            "type": "string",
             "format": "default",
             "title": "Data da Proposta Comercial",
             "description": "Data da Proposta de Comercial elaborada pela PRODEMGE"
@@ -107,7 +107,7 @@
           },
           {
             "name": "data_autorizacao_execucao",
-            "type": "date",
+            "type": "string",
             "format": "default",
             "title": "Data de Autorização para Execução",
             "description": "Data de autorização para execução da demanda "
@@ -121,7 +121,7 @@
           },
           {
             "name": "data_entrega_demanda",
-            "type": "date",
+            "type": "string",
             "format": "default",
             "title": "Data da entrega da demanda",
             "description": "Data da entrega em homologação/ produção da demanda à CGE"
@@ -135,7 +135,7 @@
           },
           {
             "name": "data_pre_faturamento",
-            "type": "date",
+            "type": "string",
             "format": "default",
             "title": "Data do Pré-faturamento",
             "description": "Data do Pré-faturamento"
