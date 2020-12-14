@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "gestao_contratos",
+      "name": "gestao-contratos",
       "path": "gestao-contratos.csv",
       "profile": "tabular-data-resource",
       "schema": {
