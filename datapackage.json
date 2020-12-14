@@ -33,7 +33,7 @@
             "type": "string",
             "format": "default",
             "title": "Número do documento",
-            "description": "Número do documento de solicitação de abertura da demanda"
+            "description": "Número do documento de solicitação que indica a abertura da demanda\n"
           },
           {
             "name": "proposta_comercial",
@@ -131,7 +131,7 @@
             "type": "string",
             "format": "default",
             "title": "Número de homologação SEI",
-            "description": "Número do processo de   homologação no SEI"
+            "description": "Número do processo eletrônico no Sistema Eletrônico de Informações (SEI) que identifica a homologação "
           },
           {
             "name": "data_pre_faturamento",
@@ -152,7 +152,7 @@
             "type": "integer",
             "format": "default",
             "title": "Numero do processo pré-faturamento",
-            "description": "Numero do processo SEI correspondente ao pré-faturamento"
+            "description": "Número do processo eletrônico no Sistema Eletrônico de Informações (SEI) que identifica o pré-faturamento"
           }
         ]
       },
