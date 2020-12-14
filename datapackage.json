@@ -16,7 +16,7 @@
           },
           {
             "name": "data_demanda",
-            "type": "date",
+            "type": "string",
             "format": "default",
             "title": "Data da demanda",
             "description": "Data de abertura da demanda "
