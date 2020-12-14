@@ -1,0 +1,178 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "gestao_contratos",
+      "path": "gestao-contratos.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "contrato",
+            "type": "string",
+            "format": "default",
+            "title": "Número do Contrato",
+            "description": "Número do Contrato o qual a demanda será executada"
+          },
+          {
+            "name": "data_demanda",
+            "type": "date",
+            "format": "default",
+            "title": "Data da demanda",
+            "description": "Data de abertura da demanda "
+          },
+          {
+            "name": "canal_solicitacao",
+            "type": "string",
+            "format": "default",
+            "title": "Canal de solicitação",
+            "description": "Canal pelo qual a demanda foi solicitada à PRODEMGE"
+          },
+          {
+            "name": "num_documento",
+            "type": "integer",
+            "format": "default",
+            "title": "Número do documento",
+            "description": "Número do documento de solicitação de abertura da demanda"
+          },
+          {
+            "name": "proposta_comercial",
+            "type": "integer",
+            "format": "default",
+            "description": "Número da Proposta de Comercial elaborada pela PRODEMGE",
+            "title": "Proposta Comercial"
+          },
+          {
+            "name": "data_proposta_comercial",
+            "type": "integer",
+            "format": "default",
+            "title": "Data da Proposta Comercial",
+            "description": "Data da Proposta de Comercial elaborada pela PRODEMGE"
+          },
+          {
+            "name": "canal_recebimento_proposta",
+            "type": "string",
+            "format": "default",
+            "title": "Canal de recebimento da Proposta Comercial",
+            "description": "Canal pelo qual a Proposta Comercial foi recebida pela Controladoria Geral do Estado"
+          },
+          {
+            "name": "num_documento_recebimento_proposta",
+            "type": "integer",
+            "format": "default",
+            "title": "Número do documento de recebimento da Proposta Comercial",
+            "description": "Número do documento da canal p qual a Proposta Comercial foi recebida pela Controladoria Geral do Estado"
+          },
+          {
+            "name": "demanda",
+            "type": "string",
+            "format": "default",
+            "title": "Demanda",
+            "description": "Descrição da demanda"
+          },
+          {
+            "name": "id_tipo_hora",
+            "type": "integer",
+            "format": "default",
+            "title": "Código do tipo da hora",
+            "description": "Código do tipo da hora"
+          },
+          {
+            "name": "tipo_hora",
+            "type": "string",
+            "format": "default",
+            "title": "Tipo de hora",
+            "description": "Descrição do tipo da hora conforme discriminado na Proposta Comercial"
+          },
+          {
+            "name": "qtd_horas ",
+            "type": "integer",
+            "format": "default",
+            "title": "Quantidade de horas",
+            "description": "Quantidade de horas descrita na proposta comercial"
+          },
+          {
+            "name": "preco_hora",
+            "type": "integer",
+            "format": "default",
+            "title": "Preço da Hora",
+            "description": "Preço da Hora descrito na proposta comercial"
+          },
+          {
+            "name": "valor_total",
+            "type": "integer",
+            "format": "default",
+            "title": "Valor Total",
+            "description": "Valor total das horas (quantidade de horas x preço da hora)"
+          },
+          {
+            "name": "data_autorizacao_execucao",
+            "type": "integer",
+            "format": "default",
+            "title": "Data de Autorização para Execução",
+            "description": "Data de autorização para execução da demanda "
+          },
+          {
+            "name": "canal_autorizacao",
+            "type": "integer",
+            "format": "default",
+            "title": "Canal de Autorização",
+            "description": "Canal de autorização para execução da demanda "
+          },
+          {
+            "name": "data_entrega_demanda",
+            "type": "integer",
+            "format": "default",
+            "title": "Data da entrega da demanda",
+            "description": "Data da entrega em homologação/ produção da demanda à CGE"
+          },
+          {
+            "name": "num_homologacao_SEI",
+            "type": "integer",
+            "format": "default",
+            "title": "Número de homologação SEI",
+            "description": "Número do processo de   homologação no SEI"
+          },
+          {
+            "name": "data_pre_faturamento",
+            "type": "integer",
+            "format": "default",
+            "title": "Data do Pré-faturamento",
+            "description": "Data do Pré-faturamento"
+          },
+          {
+            "name": "agilis",
+            "type": "integer",
+            "format": "default",
+            "title": "agilis",
+            "description": "Número do identificado do Agilis"
+          },
+          {
+            "name": "num_processo_pre_faturamento",
+            "type": "integer",
+            "format": "default",
+            "title": "Numero do processo pré-faturamento",
+            "description": "Numero do processo SEI correspondente ao pré-faturamento"
+          }
+        ]
+      },
+      "title": "Gestão de Contratos",
+      "format": "csv",
+      "encoding": "UFT-8",
+      "description": "Controle da gestão dos contratos da Diretoria Central de Transparência"
+    }
+  ],
+  "keywords": [
+    "contrato",
+    "gestao"
+  ],
+  "name": "gestao-contratos",
+  "title": "Gestão de Contratos",
+  "description": "Controle da execução dos contratos da DCTA",
+  "contributors": [
+    {
+      "title": "Silviana",
+      "role": "author"
+    }
+  ]
+}
