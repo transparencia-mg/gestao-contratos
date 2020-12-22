@@ -16,8 +16,8 @@
           },
           {
             "name": "data_demanda",
-            "type": "string",
-            "format": "default",
+            "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data da demanda",
             "description": "Data de abertura da demanda "
           },
@@ -44,8 +44,8 @@
           },
           {
             "name": "data_proposta_comercial",
-            "type": "string",
-            "format": "default",
+            "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data da Proposta Comercial",
             "description": "Data da Proposta de Comercial elaborada pela PRODEMGE"
           },
@@ -72,7 +72,7 @@
           },
           {
             "name": "id_tipo_hora",
-            "type": "string",
+            "type": "integer",
             "format": "default",
             "title": "Código do tipo da hora",
             "description": "Código do tipo da hora"
@@ -86,29 +86,32 @@
           },
           {
             "name": "qtd_horas",
-            "type": "string",
+            "type": "number",
             "format": "default",
+            "decimalChar": ",",
             "title": "Quantidade de horas",
             "description": "Quantidade de horas descrita na proposta comercial"
           },
           {
             "name": "preco_hora",
-            "type": "string",
+            "type": "number",
             "format": "default",
             "title": "Preço da Hora",
             "description": "Preço da Hora descrito na proposta comercial"
           },
           {
             "name": "valor_total",
-            "type": "string",
+            "type": "number",
             "format": "default",
+            "decimalChar": ",",
+            "groupChar": ".",
             "title": "Valor Total",
             "description": "Valor total das horas (quantidade de horas x preço da hora)"
           },
           {
             "name": "data_autorizacao_execucao",
-            "type": "string",
-            "format": "default",
+            "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data de Autorização para Execução",
             "description": "Data de autorização para execução da demanda "
           },
@@ -121,8 +124,8 @@
           },
           {
             "name": "data_entrega_demanda",
-            "type": "string",
-            "format": "default",
+            "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data da entrega da demanda",
             "description": "Data da entrega em homologação/ produção da demanda à CGE"
           },
@@ -135,8 +138,8 @@
           },
           {
             "name": "data_pre_faturamento",
-            "type": "string",
-            "format": "default",
+            "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data do Pré-faturamento",
             "description": "Data do Pré-faturamento"
           },
