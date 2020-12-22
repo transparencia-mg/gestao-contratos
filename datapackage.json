@@ -85,7 +85,7 @@
             "description": "Descrição do tipo da hora conforme discriminado na Proposta Comercial"
           },
           {
-            "name": "qtd_horas ",
+            "name": "qtd_horas",
             "type": "string",
             "format": "default",
             "title": "Quantidade de horas",
