@@ -29,17 +29,17 @@
             "description": "Canal pelo qual a demanda foi solicitada à PRODEMGE"
           },
           {
-            "name": "num_documento",
+            "name": "num_processo_SEI_demanda",
             "type": "string",
             "format": "default",
-            "title": "Número do documento",
-            "description": "Número do documento de solicitação que indica a abertura da demanda\n"
+            "title": "Número do processo SEI",
+            "description": "Número do processo SEI de solicitação que indica a abertura da demanda\n"
           },
           {
-            "name": "proposta_comercial",
+            "name": "num_proposta_comercial",
             "type": "string",
             "format": "default",
-            "description": "Número da Proposta de Comercial elaborada pela PRODEMGE",
+            "description": "Número da Proposta Comercial elaborada pela PRODEMGE",
             "title": "Proposta Comercial"
           },
           {
@@ -57,11 +57,11 @@
             "description": "Canal pelo qual a Proposta Comercial foi recebida pela Controladoria Geral do Estado"
           },
           {
-            "name": "num_documento_recebimento_proposta",
+            "name": "num_processo_SEI_proposta",
             "type": "string",
             "format": "default",
-            "title": "Número do documento de recebimento da Proposta Comercial",
-            "description": "Número do documento da canal p qual a Proposta Comercial foi recebida pela Controladoria Geral do Estado"
+            "title": "Número do processo SEI de recebimento da Proposta Comercial",
+            "description": "Número do processo SEI no qual a Proposta Comercial foi recebida pela Controladoria Geral do Estado"
           },
           {
             "name": "demanda",
@@ -116,11 +116,11 @@
             "description": "Data de autorização para execução da demanda "
           },
           {
-            "name": "canal_autorizacao",
+            "name": "num_SEI_autorizacao",
             "type": "string",
             "format": "default",
-            "title": "Canal de Autorização",
-            "description": "Canal de autorização para execução da demanda "
+            "title": "Número de referência do SEI de autorização para execução da demanda",
+            "description": "Número de referência do SEI de autorização para execução da demanda - quando não houver, estará em branco "
           },
           {
             "name": "data_entrega_demanda",
@@ -162,7 +162,7 @@
       "title": "Gestão de Contratos",
       "format": "csv",
       "encoding": "utf-8",
-      "description": "Controle da gestão dos contratos da Diretoria Central de Transparência"
+      "description": "Controle da gestão dos contratos do Portal da Transparência"
     }
   ],
   "keywords": [
@@ -171,7 +171,7 @@
   ],
   "name": "gestao-contratos",
   "title": "Gestão de Contratos",
-  "description": "Controle da execução dos contratos da DCTA",
+  "description": "Controle da execução dos contratos do Portal da Transparência",
   "contributors": [
     {
       "title": "Silviana",
