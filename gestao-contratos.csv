@@ -85,7 +85,21 @@ INF 3951;29/10/2020;E-mail;;629844/20;04/11/2020;SEI;5140.01.0003846/2020-30;Des
 INF 3951;29/10/2020;E-mail;;629844/20;04/11/2020;SEI;5140.01.0003846/2020-30;Descaracterização CPF (Compras, Patrimônio, Frota);6;Transição;2;184;368;04/11/2020;5140.01.0003846/2020-30;16/12/2020;5140.01.0005101/2020-95;18/12/2020;629499;5140.01.0005123/2020-83
 INF 3951;29/10/2020;E-mail;;629844/20;04/11/2020;SEI;5140.01.0003846/2020-30;Descaracterização CPF (Compras, Patrimônio, Frota);7;Gerenciamento de Projeto;4;246;984;04/11/2020;5140.01.0003846/2020-30;16/12/2020;5140.01.0005101/2020-95;18/12/2020;629499;5140.01.0005123/2020-83
 INF 3951;10/12/2020;SEI;1520.01.0011833/2020-49;630189/20;22/12/2020;SEI;1520.01.0011833/2020-49;Divulgação jetons CODEMGE e EMC;4;Construção - Codificação;40;94;3.760,00;23/12/2020;1520.01.0011833/2020-49;05/03/2021;5140.01.0005101/2020-95;;631096;
-INF 3951;10/02/2021;SEI;1520.01.0001183/2021-88;630807/21;01/03/2021;SEI;5140.01.0000803/2021-29;Condução de análise de impacto nas fontes de dados e elaboração da documentação do mapeamento de-para do mapa de carga para as seguintes (23) consultas em virtude da implantação do GRP;;Concepção;25,4;248;6299,2;04/03/2021;5140.01.0000803/2021-29;;;;;
-INF 3951;10/02/2021;SEI;1520.01.0001183/2021-88;630807/21;01/03/2021;SEI;5140.01.0000803/2021-29;Condução de análise de impacto nas fontes de dados e elaboração da documentação do mapeamento de-para do mapa de carga para as seguintes (23) consultas em virtude da implantação do GRP;;Gerenciamento de Projeto;18,6;246;4575,6;04/03/2021;5140.01.0000803/2021-29;;;;;
+INF 3951;10/02/2021;SEI;1520.01.0001183/2021-88;630807/21;01/03/2021;SEI;5140.01.0000803/2021-29;Condução de análise de impacto nas fontes de dados e elaboração da documentação do mapeamento de-para do mapa de carga para as seguintes (23) consultas em virtude da implantação do GRP;;Concepção;25,4;248;6299,2;04/03/2021;5140.01.0000803/2021-29;19/04/2021;;;;
+INF 3951;10/02/2021;SEI;1520.01.0001183/2021-88;630807/21;01/03/2021;SEI;5140.01.0000803/2021-29;Condução de análise de impacto nas fontes de dados e elaboração da documentação do mapeamento de-para do mapa de carga para as seguintes (23) consultas em virtude da implantação do GRP;;Gerenciamento de Projeto;18,6;246;4575,6;04/03/2021;5140.01.0000803/2021-29;19/04/2021;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";1;Concepção;0;248;0,00;;;;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";2;Elaboração;32;184;5.888,00;;;;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";3;Construção - Arquitetura;2;184;368,00;;;;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";4;Construção - Codificação;48;94;4.512,00;;;;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";5;Construção - Teste;10;94;940,00;;;;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";6;Transição;5;184;920,00;;;;;;;
+INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
+Restos a Pagar";7;Gerenciamento de Projeto;9;246;2.214,00;;;;;;;
 INF 3951;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;;;;;;;;;;;;
 INF 3951;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;;;;;;;;;;;;
