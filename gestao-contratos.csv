@@ -101,16 +101,16 @@ INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limi
 Restos a Pagar";6;Transição;5;184;920;;;;;;;
 INF 3951;;;;;19/04/2021;E-mail;;"Início do projeto de transição (demanda limia-se a apenas as alterações nos mapas/fluxos de carga) das consultas Despesa / Diárias / Despesas com Pessoal / Dívida Pública
 Restos a Pagar";7;Gerenciamento de Projeto;9;246;2.214,00;;;;;;;
-INF 3951;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;1;Concepção;0;248;0,00;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;2;Elaboração;3;184;552,00;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;3;Construção - Arquitetura;1,5;184;276,00;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;4;Construção - Codificação;9;94;846,00;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;5;Construção - Teste;1,5;94;141,00;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;6;Transição;1;184;184,00;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;7;Gerenciamento de Projeto;0;246;0,00;;;;;;;
+INF 3951;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;1;Concepção;0;248;0;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;2;Elaboração;4,5;184;828;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;3;Construção - Arquitetura;0;184;276;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;4;Construção - Codificação;9;94;846;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;5;Construção - Teste;1,5;94;141;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;6;Transição;1;184;184;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Anonimização de dados pessoais a partir  de combinações;7;Gerenciamento de Projeto;0;246;0;;;;;;;
 ;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;1;Concepção;0;248;0;;;;;;;
-INF 3951;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;2;Elaboração;1;184;184;;;;;;;
-;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;3;Construção - Arquitetura;0,5;184;92;;;;;;;
+INF 3951;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;2;Elaboração;1,5;184;276;;;;;;;
+;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;3;Construção - Arquitetura;0;184;0;;;;;;;
 ;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;4;Construção - Codificação;1;94;94;;;;;;;
 ;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;5;Construção - Teste;0,5;94;47;;;;;;;
 ;22/01/2021;SEI;1520.01.0003690/2021-08;;;;;Inclusão do campo Unidade de Programação de Gasto;6;Transição;1;184;184;;;;;;;
