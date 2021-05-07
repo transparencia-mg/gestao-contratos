@@ -131,7 +131,9 @@
             "type": "number",
             "format": "default",
             "title": "Valor total faturado",
-            "description": "Valor total que consta na nota fiscal "
+            "description": "Valor total que consta na nota fiscal ",
+            "groupChar":".",
+            "decimalChar":","
           }
         ]
       },
@@ -179,21 +181,27 @@
             "type": "number",
             "format": "default",
             "description": "Quantidade de horas descrita na proposta comercial",
-            "title": "Quantidade de horas"
+            "title": "Quantidade de horas",
+            "groupChar":".",
+            "decimalChar":","
           },
           {
             "name": "preco_hora",
             "type": "number",
             "format": "default",
             "description": "Preço da Hora descrito na proposta comercial",
-            "title": "Preço da Hora"
+            "title": "Preço da Hora",
+            "groupChar":".",
+            "decimalChar":","
           },
           {
             "name": "valor_total",
             "type": "number",
             "format": "default",
             "description": "Valor total das horas (quantidade de horas x preço da hora)",
-            "title": "Valor Total"
+            "title": "Valor Total",
+            "groupChar":".",
+            "decimalChar":","
           }
         ]
       },
