@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "execucao_demandas",
-      "path": "execucao_demandas.csv",
+      "path": "data/execucao_demandas.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -142,7 +142,7 @@
     },
     {
       "name": "demandas",
-      "path": "demandas.csv",
+      "path": "data/demandas.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
